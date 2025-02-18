@@ -9,7 +9,7 @@ that provides codes for computational biology. This repository provides :
 - **sesi5** : Working with Biological Database
 - **sesi6** : Working with Biological Database
 ---
-**Dont forget to create envorinments in folder**
+**Dont forget to create environments in folder**
 ```bash
 py -3.7 -m venv environments/computational_biology
 ```
