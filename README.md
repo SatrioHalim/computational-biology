@@ -8,3 +8,8 @@ that provides codes for computational biology. This repository provides :
 - **sesi4** : Sequence Alignment Using Biopython
 - **sesi5** : Working with Biological Database
 - **sesi6** : Working with Biological Database
+---
+**Dont forget to create envorinments in folder**
+```bash
+py -3.7 -m venv environments/computational_biology
+```
