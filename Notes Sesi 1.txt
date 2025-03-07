@@ -1,0 +1,13 @@
+Tujuan : Analisa & Manipulasi DNA
+
+DNA => 2 Untaian -> Double Helix
+A -> Adenin
+C -> Cytocin
+G -> Guanine
+T -> Tymin
+
+RNA => 1 Untaian -> Single Helix
+A -> Adenin
+C -> Cytocin
+G -> Guanine
+U -> Urasil
