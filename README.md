@@ -1,4 +1,4 @@
-# Computational Boilogy Repository
+# Computational Biology Repository
 
 This repository contains a collection of python programming, spesifically jupyter notebook (ipynb)
 that provides codes for computational biology. This repository provides :
